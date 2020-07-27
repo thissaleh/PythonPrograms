@@ -51,7 +51,7 @@ class InputForm(object):
 		
 		def wait_for_input(self):
 			self.root.mainloop()
-	
+x=3334
 
 dialog = InputForm()
 dialog.wait_for_input()
